@@ -1,0 +1,8 @@
+# Config files
+.env file
+.env.local
+/.vscode
+
+# Large folders
+/node_modules
+/vendor
